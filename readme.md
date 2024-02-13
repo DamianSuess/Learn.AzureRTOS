@@ -2,7 +2,7 @@
 
 ## Renaming
 
-Note from Eclipse-ThreadX. Some of the links in the Configure Environment are be broken, and the new [Eclipse-ThreadX/Samples](https://github.com/eclipse-threadx/samples) repo doesn't include it.
+Note from Eclipse-ThreadX. Some of the links in the Configure Environment are be broken, and the new [Eclipse-ThreadX/Samples](https://github.com/eclipse-threadx/samples) repo doesn't include it. An issue has been filed with their [samples repo](https://github.com/eclipse-threadx/samples/issues/39).
 
 This repository is a snapshot of the old Azure RTOS Samples repo from 2022-04-06
 
